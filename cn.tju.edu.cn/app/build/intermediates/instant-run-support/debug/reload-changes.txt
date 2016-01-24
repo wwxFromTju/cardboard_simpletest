@@ -1,0 +1,6 @@
+/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/cn/tju/edu/cn/MainActivity$override.class
+/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/cn/tju/edu/cn/R$override.class
+/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/cn/tju/edu/cn/R$string$override.class
+/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/cn/tju/edu/cn/R$raw$override.class
+/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/cn/tju/edu/cn/CardboardCube$override.class
+/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/build/gradle/internal/incremental/AppPatchesLoaderImpl.class

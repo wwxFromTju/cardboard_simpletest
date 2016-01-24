@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4f5b12000905e7539cb9025230fea5ca1ca45aa5">
+        <dex dex="/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/pre-dexed/debug/classes_0dc6a4e7d91392bafd1ee92bb5315c4a9ac376a0.jar" />
+    </item>
+
+</items>

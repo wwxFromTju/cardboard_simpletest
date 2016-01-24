@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/res/merged/debug/layout/common_ui.xml",
+        "source": "/Users/codeMan/Desktop/cn.tju.edu.cn/app/src/main/res/layout/common_ui.xml"
+    },
+    {
+        "merged": "/Users/codeMan/Desktop/io.kirmani.cardboard.template-master/app/build/intermediates/res/merged/debug/layout/common_ui.xml",
+        "source": "/Users/codeMan/Desktop/io.kirmani.cardboard.template-master/app/src/main/res/layout/common_ui.xml"
+    }
+]

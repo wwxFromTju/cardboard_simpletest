@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/codeMan/Desktop/io.kirmani.cardboard.template-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/codeMan/Desktop/io.kirmani.cardboard.template-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/codeMan/Desktop/cn.tju.edu.cn/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/codeMan/Desktop/cn.tju.edu.cn/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
